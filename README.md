@@ -25,8 +25,7 @@ My goal is to identify real-world vulnerabilities, understand attack methodologi
 - SQLmap
 - Nikto
 - Hydra
-- Feroxbuster / Gobuster / Dirbuster
-- Hashcat
+- Feroxbuster 
 - John the Ripper
 
 ### 🔹 Technical Knowledge
