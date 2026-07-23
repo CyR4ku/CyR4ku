@@ -1,64 +1,49 @@
 # 👋 Hi, I'm Raul Mahmud
 
-🎓 BSc Computer Science @ Azerbaijan Technical University (GPA: 93.45)  
-🔐 Cybersecurity Graduate @ IT Brains Academy – Red Team Program  
-🏅 TryHackMe Certificate Holder (Pre Security Path & AoC 2025)  
-📍 Baku, Azerbaijan  
+🎓 **BSc Computer Science** @ Azerbaijan Technical University (GPA: **92.3**)  
+🛡️ **Scholarship Scholar** @ Azerbaijan Cybersecurity Center (IDDA x Technion – Israel Institute of Technology)  
+🏆 **Certified Red Team Analyst (CRTA)**  
+🥇 **IT Brains Academy Graduate** – Red Team Program (**Platinum Degree**)  
+📍 **Baku, Azerbaijan**  
 
 ---
 
 ## 🚀 About Me
 
-I am a cybersecurity enthusiast focused on Red Teaming and penetration testing.  
-I have completed structured Red Team training at IT Brains Academy and actively practice offensive security through platforms like TryHackMe.
+I am a cybersecurity student and offensive security practitioner dedicated to Red Teaming and penetration testing. Currently, I am participating in an intensive cybersecurity program at the **Azerbaijan Cybersecurity Center**, conducted in partnership with **Technion – Israel Institute of Technology** under an **IDDA** scholarship.
 
-My goal is to identify real-world vulnerabilities, understand attack methodologies, and help build stronger defensive systems.
+I have completed structured Red Team training with top honors (**Platinum Degree**) at IT Brains Academy, earned my **CRTA**, and actively practice real-world offensive techniques across lab environments and simulation platforms.
 
 ---
 
 ## 🛠 Technical Skills
 
-### 🔹 Offensive Security
+### 🔹 Offensive Security & Tools
 - Metasploit Framework
 - Burp Suite Pro
-- Nmap
-- SQLmap
-- Nikto
-- Hydra
-- Feroxbuster 
-- John the Ripper
+- Nmap, SQLmap, Nikto
+- Feroxbuster, Hydra, John the Ripper
 
-### 🔹 Technical Knowledge
-- Linux Administration & CLI
-- Bash fundamentals
-- Networking fundamentals (TCP/IP, DNS, HTTP/S)
-- Web application vulnerabilities (OWASP Top 10)
-- Enumeration techniques
-- Basic Active Directory concepts
-- Privilege Escalation (Linux & Windows basics)
-- Password attacks & hash cracking
-- System hardening fundamentals
+### 🔹 Core Capabilities
+- Linux Administration & Bash Scripting
+- Networking Fundamentals (TCP/IP, DNS, HTTP/S)
+- Web Application Security (OWASP Top 10)
+- Enumeration & Active Directory Basics
+- Privilege Escalation (Linux & Windows)
+- Password Attacks & Hash Cracking
 
 ---
 
 ## 📜 Certifications
 
-- TryHackMe – Pre Security Path
-- TryHackMe – Advent of Cyber 2025
-- IT Brains Academy – Red Team Program (Certificate Pending)
+- **CRTA** – Certified Red Team Analyst
+- **IT Brains Academy** – Red Team Program (**Platinum Degree**)
+- **TryHackMe** – Pre Security Path
+- **TryHackMe** – Advent of Cyber 2025
 
 ---
 
-## 🌱 Currently Improving
+## 📫 Connect with Me
 
-- Advanced Active Directory attacks
-- Post-exploitation techniques
-- Red Team methodology & reporting
-- Scripting for automation (Python & Bash)
-
----
-
-## 📫 Contact
-
-📧 mahmudraul7@gmail.com  
-🔗 linkedin.com/in/raul-mahmud
+📧 **Email:** [mahmudraul7@gmail.com](mailto:mahmudraul7@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/raul-mahmud](https://linkedin.com/in/raul-mahmud)
