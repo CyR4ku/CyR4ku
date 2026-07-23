@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raul Mahmud
 
 🎓 **BSc Computer Science** @ Azerbaijan Technical University (GPA: **92.3**)  
-🛡️ **Scholarship Scholar** @ Azerbaijan Cybersecurity Center (IDDA x Technion – Israel Institute of Technology)  
+🛡️ **Scholarship Program** @ Azerbaijan Cybersecurity Center (IDDA x Technion – Israel Institute of Technology)  
 🏆 **Certified Red Team Analyst (CRTA)**  
 🥇 **IT Brains Academy Graduate** – Red Team Program (**Platinum Degree**)  
 📍 **Baku, Azerbaijan**  
