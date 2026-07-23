@@ -38,8 +38,6 @@ I have completed structured Red Team training with top honors (**Platinum Degree
 
 - **CRTA** – Certified Red Team Analyst
 - **IT Brains Academy** – Red Team Program (**Platinum Degree**)
-- **TryHackMe** – Pre Security Path
-- **TryHackMe** – Advent of Cyber 2025
 
 ---
 
